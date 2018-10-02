@@ -1,0 +1,5 @@
+C:\Users\Tatjana\source\repos\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tatjana\source\repos\SmartMenuLibrary\SmartMenuLibrary\bin\Debug\SmartMenuLibrary.dll
+C:\Users\Tatjana\source\repos\SmartMenuLibrary\SmartMenuLibrary\bin\Debug\SmartMenuLibrary.pdb
+C:\Users\Tatjana\source\repos\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.dll
+C:\Users\Tatjana\source\repos\SmartMenuLibrary\SmartMenuLibrary\obj\Debug\SmartMenuLibrary.pdb
